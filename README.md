@@ -7,21 +7,20 @@ Since the script uses the WMI methods of the ConfigMgr agent to trigger the acti
 
 - **-ComputerName**, Defines the computer to trigger the action on, accepts an array of computers.
 - **-Action**, Defines the action to be triggered on the remote computer. Accepted values:
-
-    ApplicationDeploymentEvaluationCycle
-    DiscoveryDataCollectionCycle
-    FileCollectionCycle
-    HardwareInventoryCycle
-    MachinePolicyRetrievalCycle
-    MachinePolicyEvaluationCycle
-    SoftwareInventoryCycle
-    SoftwareMeteringUsageReportCycle
-    SoftwareUpdatesAssignmentsEvaluationCycle
-    SoftwareUpdateScanCycle
-    StateMessageRefresh
-    UserPolicyRetrievalCycle
-    UserPolicyEvaluationCycle
-    WindowsInstallersSourceListUpdateCycle
+    * ApplicationDeploymentEvaluationCycle
+    * DiscoveryDataCollectionCycle
+    * FileCollectionCycle
+    * HardwareInventoryCycle
+    * MachinePolicyRetrievalCycle
+    * MachinePolicyEvaluationCycle
+    * SoftwareInventoryCycle
+    * SoftwareMeteringUsageReportCycle
+    * SoftwareUpdatesAssignmentsEvaluationCycle
+    * SoftwareUpdateScanCycle
+    * StateMessageRefresh
+    * UserPolicyRetrievalCycle
+    * UserPolicyEvaluationCycle
+    * WindowsInstallersSourceListUpdateCycle
 
 ## Examples
 
